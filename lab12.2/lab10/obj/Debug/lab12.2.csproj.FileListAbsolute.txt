@@ -1,0 +1,5 @@
+/Users/bohdanyelmanov/Desktop/TSPP2/lab12/lab12.2/lab10/bin/Debug/lab10.exe
+/Users/bohdanyelmanov/Desktop/TSPP2/lab12/lab12.2/lab10/bin/Debug/lab10.pdb
+/Users/bohdanyelmanov/Desktop/TSPP2/lab12/lab12.2/lab10/obj/Debug/lab12.2.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/TSPP2/lab12/lab12.2/lab10/obj/Debug/lab10.exe
+/Users/bohdanyelmanov/Desktop/TSPP2/lab12/lab12.2/lab10/obj/Debug/lab10.pdb
