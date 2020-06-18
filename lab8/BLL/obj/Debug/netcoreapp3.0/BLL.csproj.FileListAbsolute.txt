@@ -1,0 +1,28 @@
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/BLL.deps.json
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/BLL.dll
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/BLL.pdb
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/DAL.dll
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab8/BLL/bin/Debug/netcoreapp3.0/DAL.pdb
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.AssemblyInfoInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.AssemblyInfo.cs
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.csproj.CopyComplete
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.dll
+/Users/bohdanyelmanov/Desktop/lab8/BLL/obj/Debug/netcoreapp3.0/BLL.pdb
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/BLL.deps.json
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/BLL.dll
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/BLL.pdb
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/DAL.dll
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/bin/Debug/netcoreapp3.0/DAL.pdb
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.AssemblyInfoInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.AssemblyInfo.cs
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.csproj.CopyComplete
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.dll
+/Users/bohdanyelmanov/Desktop/lab8 2/BLL/obj/Debug/netcoreapp3.0/BLL.pdb

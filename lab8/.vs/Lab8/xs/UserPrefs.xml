@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{8739E203-7383-4073-8199-2DD140A5D930}|Default">
+  <MonoDevelop.Ide.ItemProperties.Catalog.DAL.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLL/Services/Impl/TaskService.cs">
+    <Files>
+      <File FileName="BLL.Tests/TaskServiceTests.cs" Line="43" Column="86" />
+      <File FileName="BLL/Services/Impl/TaskService.cs" Line="62" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab8" expanded="True">
+            <Node name="Catalog" expanded="True">
+              <Node name="BLL" expanded="True">
+                <Node name="DTO" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Impl" expanded="True">
+                    <Node name="TaskService.cs" selected="True" />
+                  </Node>
+                  <Node name="Interfaces" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="BLL.Tests" expanded="True" />
+              <Node name="CCL" expanded="True">
+                <Node name="Security" expanded="True">
+                  <Node name="Identity" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab8" expanded="True">
+            <Node name="Catalog" expanded="True">
+              <Node name="DAL.Tests" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

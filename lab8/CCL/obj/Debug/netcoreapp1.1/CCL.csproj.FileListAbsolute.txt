@@ -1,0 +1,36 @@
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/bin/Debug/netcoreapp1.1/CCL.deps.json
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/bin/Debug/netcoreapp1.1/CCL.dll
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/bin/Debug/netcoreapp1.1/CCL.pdb
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfoInputs.cache
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfo.cs
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/obj/Debug/netcoreapp1.1/CCL.csproj.CoreCompileInputs.cache
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/obj/Debug/netcoreapp1.1/CCL.dll
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/obj/Debug/netcoreapp1.1/CCL.pdb
+C:/Users/DELL/source/repos/Lab7-TSPP/CCL/obj/Debug/netcoreapp1.1/CCL.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/bin/Debug/netcoreapp1.1/CCL.deps.json
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/bin/Debug/netcoreapp1.1/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/bin/Debug/netcoreapp1.1/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/obj/Debug/netcoreapp1.1/CCL.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/obj/Debug/netcoreapp1.1/CCL.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfoInputs.cache
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfo.cs
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/obj/Debug/netcoreapp1.1/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab7-TSPP-master/CCL/obj/Debug/netcoreapp1.1/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab8/CCL/bin/Debug/netcoreapp1.1/CCL.deps.json
+/Users/bohdanyelmanov/Desktop/lab8/CCL/bin/Debug/netcoreapp1.1/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab8/CCL/bin/Debug/netcoreapp1.1/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab8/CCL/obj/Debug/netcoreapp1.1/CCL.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/lab8/CCL/obj/Debug/netcoreapp1.1/CCL.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfoInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfo.cs
+/Users/bohdanyelmanov/Desktop/lab8/CCL/obj/Debug/netcoreapp1.1/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab8/CCL/obj/Debug/netcoreapp1.1/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/bin/Debug/netcoreapp1.1/CCL.deps.json
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/bin/Debug/netcoreapp1.1/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/bin/Debug/netcoreapp1.1/CCL.pdb
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/obj/Debug/netcoreapp1.1/CCL.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/obj/Debug/netcoreapp1.1/CCL.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfoInputs.cache
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/obj/Debug/netcoreapp1.1/CCL.AssemblyInfo.cs
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/obj/Debug/netcoreapp1.1/CCL.dll
+/Users/bohdanyelmanov/Desktop/lab8 2/CCL/obj/Debug/netcoreapp1.1/CCL.pdb
