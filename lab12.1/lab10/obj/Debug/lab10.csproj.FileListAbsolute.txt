@@ -1,0 +1,6 @@
+/Users/bohdanyelmanov/Desktop/Homework/6 semester/PO/lab10/lab10/bin/Debug/lab10.exe
+/Users/bohdanyelmanov/Desktop/Homework/6 semester/PO/lab10/lab10/bin/Debug/lab10.pdb
+/Users/bohdanyelmanov/Desktop/Homework/6 semester/PO/lab10/lab10/obj/Debug/lab10.csprojAssemblyReference.cache
+/Users/bohdanyelmanov/Desktop/Homework/6 semester/PO/lab10/lab10/obj/Debug/lab10.csproj.CoreCompileInputs.cache
+/Users/bohdanyelmanov/Desktop/Homework/6 semester/PO/lab10/lab10/obj/Debug/lab10.exe
+/Users/bohdanyelmanov/Desktop/Homework/6 semester/PO/lab10/lab10/obj/Debug/lab10.pdb
